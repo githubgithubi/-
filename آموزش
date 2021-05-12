@@ -8,5 +8,10 @@
     "1": "آموزش ساخت بلوک خروج ",
     "2": "https://www.aparat.com/v/fT9uq",
     "3": "//made by sketchtool"
+  },
+  {
+    "1": "آموزش ساخت ضد شات ",
+    "2": "https://www.aparat.com/v/ymElF",
+    "3": "\ngetWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE);\n//made by sketchtool"
   }
 ]
